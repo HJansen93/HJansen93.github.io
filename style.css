@@ -37,6 +37,7 @@ body {
 	.post {
 		border:1px solid gray;	
 		height:300px;
+		width:820px;
 	}
 	.postheader {
 		font-size:20px;
@@ -45,10 +46,10 @@ body {
 		float:left;
 		height:50px;
 		clear:both;
-		width:inherit;
+		width:820px;
 	}
 	
 	.postcontent {
 		float:left;
-		width:inherit;
+		width:820px;
 	}
