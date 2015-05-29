@@ -48,7 +48,7 @@ body {
 		height:50px;
 		clear:both;
 		width:820px;
-		border-bottom:1px solid black;
+		border-bottom:1px solid lightgray;
 	}
 	.postheadertext {
 		margin-left:40px;
@@ -60,7 +60,7 @@ body {
 	.postcontent {
 		float:left;
 		width:820px;
-		padding:5px;
+		padding:10px;
 	}
 	
 
