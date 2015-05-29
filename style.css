@@ -48,6 +48,12 @@ body {
 		clear:both;
 		width:820px;
 	}
+	.postheadertext {
+		margin-left:40px;
+		margin-top:10px;
+		font-size:30px;
+		color:lightgreen;
+	}
 	
 	.postcontent {
 		float:left;
