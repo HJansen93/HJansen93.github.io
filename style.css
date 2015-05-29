@@ -5,11 +5,10 @@ body {
 }
 /* The header personal thing */
 #persona {
-	border:1px solid lightgray;
 	height:220px;
 	margin-left:auto;
 	margin-right:auto;	
-	width:850px;	
+	width:820px;	
 }
 	/* The image in this personal thing */
 	#imgbox {
@@ -35,3 +34,10 @@ body {
 	width:800px;
 	margin:auto;
 }
+	.post {
+		border:1px solid gray;	
+	}
+	.postheader {
+		font-size:20px;
+		font-weight:600;
+	}
