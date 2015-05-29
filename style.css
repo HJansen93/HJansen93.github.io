@@ -48,8 +48,7 @@ body {
 		width:600px;
 	}
 		
-	.post {
-		border:1px solid gray;	
+	.post {		
 		height:300px;
 		width:820px;
 		margin-bottom:15px;
@@ -64,8 +63,7 @@ body {
 		width:820px;
 		border-bottom:1px solid lightgray;
 	}
-	.postheadertext {
-		margin-left:40px;
+	.postheadertext {		
 		font-size:30px;
 		color:black;
 		font-family:'Lobster Two';
