@@ -21,6 +21,7 @@ body {
 	font-family:Calibri;
 	color:darkgrey;
 	text-shadow:1px 1px 1px solid black;
-	float:right;
+	float:left;
 	margin-right:500px;
+	font-size:72px;
 }
