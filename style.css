@@ -38,6 +38,7 @@ body {
 		border:1px solid gray;	
 		height:300px;
 		width:820px;
+		margin-bottom:15px;
 	}
 	.postheader {
 		font-size:20px;
@@ -57,6 +58,7 @@ body {
 	.postcontent {
 		float:left;
 		width:820px;
+		padding:5px;
 	}
 	
 
