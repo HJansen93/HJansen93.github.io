@@ -33,10 +33,7 @@ body {
 		text-shadow:1px 1px black;	
 		width:600px;
 	}
-	
-
-	
-	
+		
 	.post {
 		border:1px solid gray;	
 		height:300px;
@@ -47,4 +44,9 @@ body {
 		background-color:lightblue;
 		float:left;
 		height:50px;
+		clear:both;
+	}
+	
+	.postcontent {
+		float:left;
 	}
