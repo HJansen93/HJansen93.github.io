@@ -2,26 +2,29 @@ body {
 	font-family: calibri;
 	background-color:white;
 }
-.imgbox {
-	width:200px;
-	height:200px;
-	padding:10px;
-	border:1px solid black;
-	float:left;
-}
+/* The header personal thing */
 #persona {
-	margin-left:auto;
-	margin-right:auto;
-	height:220px;
-	width:1200px;
 	border:1px solid lightgray;
+	height:220px;
+	margin-left:auto;
+	margin-right:auto;	
+	width:1200px;	
 }
-
-.test {
-	font-family:Calibri;
-	color:darkgrey;
-	text-shadow:1px 1px 1px solid black;
-	margin-right:500px;
-	font-size:48px;
+	/* The image in this personal thing */
+	.imgbox {
+		border:1px solid black;
+		float:left;
+		height:200px;
+		padding:10px;
+		width:200px;						
+	}
 	
-}
+	/* The text in this personal thing */
+	.test {
+		color:darkgrey;
+		font-family:Calibri;
+		font-size:48px;
+		float:left;	
+		margin-right:500px;
+		text-shadow:1px 1px 1px solid black;	
+	}
