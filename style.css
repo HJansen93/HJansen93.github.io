@@ -17,8 +17,10 @@ body {
 	border:1px solid lightgray;
 }
 
-#persona h1 {
+#persona p {
 	font-family:Calibri;
 	color:darkgrey;
 	text-shadow:1px 1px 1px solid black;
+	float:right;
+	margin-right:500px;
 }
