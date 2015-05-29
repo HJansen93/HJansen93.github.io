@@ -43,4 +43,6 @@ body {
 	.postheader {
 		font-size:20px;
 		font-weight:600;
+		background-color:lightblue;
+		float:left
 	}
