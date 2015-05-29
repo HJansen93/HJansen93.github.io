@@ -1,4 +1,5 @@
 body {
+	font-family: calibri;
 	background-color:white;
 }
 .imgbox {
@@ -13,4 +14,10 @@ body {
 	height:220px;
 	width:600px;
 	border:1px solid lightgray;
+}
+
+#persona h1 {
+	font-family:Calibri;
+	color:darkgrey;
+	text-shadow:1px 1px 1px solid black;
 }
