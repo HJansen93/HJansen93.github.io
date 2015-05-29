@@ -7,6 +7,7 @@ body {
 	height:200px;
 	padding:10px;
 	border:1px solid black;
+	float:left;
 }
 #persona {
 	margin-left:auto;
