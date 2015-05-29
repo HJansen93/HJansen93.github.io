@@ -8,11 +8,20 @@ body {
 	margin:auto;
 	width:800px;
 }
-#persona {
-	height:220px;
+#headercontainer{
+	height:500px;
 	margin-left:auto;
 	margin-right:auto;	
 	width:820px;	
+}
+#persona {
+	height:220px;
+}
+#description {
+	height:280px;
+	font-size:20px;
+	font-family:'Shadows Into Light';
+	color:lightgray;
 }
 	/* The image in this personal thing */
 	#imgbox {
