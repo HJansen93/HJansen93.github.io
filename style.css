@@ -45,8 +45,10 @@ body {
 		float:left;
 		height:50px;
 		clear:both;
+		width:inherit;
 	}
 	
 	.postcontent {
 		float:left;
+		width:inherit;
 	}
