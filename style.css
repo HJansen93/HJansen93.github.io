@@ -49,7 +49,7 @@ body {
 	}
 		
 	.post {		
-		height:300px;
+		height:auto;
 		width:820px;
 		margin-bottom:15px;
 	}
@@ -73,7 +73,7 @@ body {
 	.postcontent {
 		float:left;
 		width:820px;
-		padding:10px;
+		padding-top:10px;
 	}
 	
 
