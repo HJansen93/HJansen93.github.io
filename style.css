@@ -92,6 +92,8 @@ body {
 	#sidecontainer {
 		float:right;
 		width:200px;
+		
+		border-left:1px solid black;
 	}
 	
 
