@@ -16,7 +16,7 @@ function createIndex(items) {
 
 function generateIndex() {
 	var index = [];
-	var posts = $('#postcontainer').children('#post');
+	var posts = $('.post');
 	var total = posts.count;
 	posts.each(function(p) {
 		var current = new indexItem( p.children('#postheader').children('#postheadertext').first().text(), null);
