@@ -1,6 +1,6 @@
 body {
-	font-family: calibri;
 	background-color:white;
+	font-family: calibri;
 	margin:0px;
 }
 /* The header personal thing */
@@ -8,26 +8,18 @@ body {
 	margin:auto;
 	width:800px;
 }
+/*Header container*/
 #headercontainer{
 	height:190px;
 	margin-left:auto;
 	margin-right:auto;	
 	width:820px;	
 }
-#persona {
-	height:120px;
-}
-#description {
-	height:280px;
-	font-size:20px;
-	font-family:'Shadows Into Light';
-	color:#a8a8a8;
-}
-
-#blogcontainer {
-	margin-top:40px;
-	height:auto;
-}
+	/* Another simple container div */
+	#persona {
+		height:120px;
+	}
+	
 	/* The image in this personal thing */
 	#imgbox {
 		margin-top:10px;
@@ -38,7 +30,7 @@ body {
 	}
 	
 	/* The text in this personal thing */
-	.test {
+	.text {
 		color:darkblue;
 		font-family:'Indie Flower';
 		font-size:48px;
@@ -47,34 +39,47 @@ body {
 		text-shadow:1px 1px black;	
 		width:600px;
 	}
-		
+	
+	/* The description below the title */
+	#description {
+		font-size:20px;
+		font-family:'Shadows Into Light';
+		color:#a8a8a8;
+		height:280px;
+	}
+	/* The container for all the content */
+	#blogcontainer {
+		height:auto;
+		margin-top:40px;
+	}	
+	/* the container for a post */	
 	.post {		
 		height:auto;
 		width:820px;
-		
 	}
+	/* The header for a post */
 	.postheader {
+		border-bottom:1px solid lightgray;
+		clear:both;
 		font-size:20px;
 		font-weight:600;
 		float:left;
-		
 		height:50px;
-		clear:both;
 		width:820px;
-		border-bottom:1px solid lightgray;
 	}
+	/* The title for the post */
 	.postheadertext {		
-		font-size:30px;
 		color:black;
+		font-size:30px;
 		font-family:'Lobster Two';
 		height:75px;
 	}
-	
+	/* The content inside the post */
 	.postcontent {
 		float:left;
-		width:820px;
 		padding-top:10px;
 		margin-bottom:20px;
+		width:820px;
 	}
 	
 
